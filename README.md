@@ -37,15 +37,6 @@ git clone https://github.com/<username>/ECOMMERCE_APP.git
 cd ECOMMERCE_APP
 
 
-Create and activate a virtual environment:
-
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# macOS / Linux
-source venv/bin/activate
-
-
 Install dependencies:
 
 pip install -r requirements.txt
@@ -54,8 +45,3 @@ pip install -r requirements.txt
 Setup the database:
 
 SQLite (recommended): Create ecommerce.db using the provided schema.
-
-Excel (optional): Ensure data_new.xlsx has Users, Products, Orders sheets.
-
-Run the Flask application:
-
