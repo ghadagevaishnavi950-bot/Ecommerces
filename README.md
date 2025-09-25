@@ -33,8 +33,8 @@ ECOMMERCE_APP/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<username>/ECOMMERCE_APP.git
-cd ECOMMERCE_APP
+git clone https://github.com/<username>/ECOMMERCE.git
+cd ECOMMERCE
 
 
 Install dependencies:
